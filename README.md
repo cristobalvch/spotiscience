@@ -69,6 +69,9 @@ song
 
 # Returns song lyric
 song_lyric = sd.get_song_lyrics(songname=song['name'],artistname=song['artist'])
+
+[output]
+"Yeah\n\nI've been tryna call\nI've been on my own for long enough\nMaybe you can show me\u2005how\u2005to love, maybe\nI'm\u2005going through withdrawals\nYou don't even have\u2005to do too much\nYou can turn me on with just a touch, baby\n\nI look around and\nSin City's cold and empty (Oh)\nNo one's around to judge me (Oh)\nI can't see clearly when you're gone\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\nHey, hey, hey\n\nI'm running out of time\n'Cause I can see the sun light up the sky\nSo I hit the road in overdrive, baby, oh\nThe city's cold and empty (Oh)\nNo one's around to judge me (Oh)\nI can't see clearly when you're gone\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\n\nI'm just calling back to let you know (Back to let you know)\nI could never say it on the phone (Say it on the phone)\nWill never let you go this time (Ooh)\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nHey, hey, hey\nHey, hey, hey\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touchEmbedShare Url:CopyEmbed:Copy"
 ```
 
 ## Topic Modelling and Music Mood Prediction
