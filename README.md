@@ -11,6 +11,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install spotisc
 ```bash
 pip install spotiscience
 ```
+then it's necessary to  install the 2 spacy models for Natural Language Processing
+
+```bash
+python -m spacy download en_core_web_lg
+python -m spacy download es_core_news_lg
+```
+
 
 Use the git option 
 ```bash
