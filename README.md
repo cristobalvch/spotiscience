@@ -12,6 +12,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install spotisc
 pip install spotiscience
 ```
 
+Use the git option 
+```bash
+git clone https://github.com/cristobalvch/spotiscience.git
+```
+
+
 ## Usage
 
 ```python
