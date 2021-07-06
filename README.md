@@ -101,5 +101,7 @@ Cristóbal Veas - Data Scientist , feel free to contact me on [Linkedln](https:/
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+I would be glad if someone can help me to upload this project to pipy 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
