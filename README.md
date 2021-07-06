@@ -1,27 +1,15 @@
 # SPOTISCIENCE
 
-Spotiscience is a Python library for extracting and modelling music data of Spotify and Genius
+Spotiscience is a Python Project for extracting and modelling music data of Spotify and Genius
 
 ### Recomended:  See completely guide to use the library
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install spotiscience.
-
-```bash
-pip install spotiscience
-```
-then it's necessary to  install the 2 spacy models for Natural Language Processing
-
-```bash
-python -m spacy download en_core_web_lg
-python -m spacy download es_core_news_lg
-```
-
-
-Use the git option 
 ```bash
 git clone https://github.com/cristobalvch/spotiscience.git
+cd spotiscience
+pip install -r requirements.txt
 ```
 
 
@@ -37,6 +25,8 @@ CREDENTIALS['client_secret'] = "your_spotify_client_secret"
 CREDENTIALS['redirect_url'] = "your_redirect_url"
 CREDENTIALS['user_id'] = "your_spotify_user_id"
 CREDENTIALS['genius_access_token'] = "your_genius_access_token"
+
+"""You also can set your credentials id on credentials.py and import from spotiscience"""
 
 # returns 'downloader class'
 sd = spotiscience.SpotiScienceDownloader(credentials=CREDENTIALS)
