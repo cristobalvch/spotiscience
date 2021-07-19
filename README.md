@@ -4,6 +4,10 @@ Spotiscience is a Python Project for extracting and modelling music data of Spot
 
 ### Recomended:  See completely guide to use the library
 
+English: https://towardsdatascience.com/spotiscience-a-tool-for-data-scientists-and-music-lovers-a3e32bd82ed1
+
+Spanish: https://medium.com/datos-y-ciencia/spotiscience-una-herramienta-para-data-scientists-y-music-lovers-231b8dc631bc
+
 ## Installation
 
 ```bash
