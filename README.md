@@ -1,4 +1,6 @@
 # SPOTISCIENCE
+## IMPORTANT!!: This Project is not being maintained Anymore
+
 
 Spotiscience is a Python Project for extracting and modelling music data of Spotify and Genius
 
